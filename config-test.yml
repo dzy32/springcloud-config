@@ -1,1 +1,2 @@
-sgkd
+config:
+  value: this is spring cloud config test
